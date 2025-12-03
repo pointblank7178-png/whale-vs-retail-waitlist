@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEyMzQ1LCJ0eXBlIjoiY3VzdG9keSIsImtleSI6IjB4MTIzNDU2Nzg5MGFiY2RlZiJ9",
+    "payload": "eyJkb21haW4iOiJleGFtcGxlLmNvbSJ9",
+    "signature": "MHg..."
+  },
+  "frame": {
+    "version": "1",
+    "name": "Whale vs Retail Waitlist",
+    "iconUrl": "https://your-app.vercel.app/icon.png",
+    "homeUrl": "https://your-app.vercel.app",
+    "imageUrl": "https://your-app.vercel.app/splash.png",
+    "buttonTitle": "Join Waitlist",
+    "splashImageUrl": "https://your-app.vercel.app/splash.png",
+    "splashBackgroundColor": "#0f172a",
+    "webhookUrl": "https://your-app.vercel.app/api/webhook"
+  }
+}
